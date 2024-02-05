@@ -1,9 +1,12 @@
 import { FunctionComponent } from "react";
 
-export const Success: FunctionComponent = () => {
+
+
+export const Loading: FunctionComponent = () => {
 
     return(
         <>
+            
         </>
     )
 }
